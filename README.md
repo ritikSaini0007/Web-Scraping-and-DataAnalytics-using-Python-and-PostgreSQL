@@ -1,4 +1,4 @@
-# 📚 Web Scraping to Data Analytics: Book Store Analysis using Python, PostgreSQL & Power BI
+# 📚 Web Scraping to Data Analytics: Book Store Analysis using Python & PostgreSQL
 
 ## 📖 Project Overview
 
