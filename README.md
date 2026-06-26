@@ -96,41 +96,10 @@ Power BI Dashboard
 * pgAdmin 4
 * VS Code
 
----
-
-# 📂 Project Structure
-
-```
-BookStore-Web-Scraping-Analytics/
-│
-├── data/
-│   ├── raw_books.csv
-│   └── cleaned_books.csv
-│
-├── scraper/
-│   └── scraper.py
-│
-├── notebooks/
-│   └── EDA.ipynb
-│
-├── sql/
-│   ├── create_table.sql
-│   ├── analysis_queries.sql
-│
-├── dashboard/
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 # 📊 Dataset
 
-The dataset was **not downloaded from any public source**. It was created by scraping an online bookstore using Python.
+The dataset was **not downloaded from any public source**. It was created by scraping an online bookstore using Python - 
+web : "https://books.toscrape.com/catalogue/page-{}.html".
 
 ### Dataset Features
 
