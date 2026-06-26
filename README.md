@@ -41,11 +41,6 @@ Data Visualization
       │
       ▼
 Business Insights
-      │
-      ▼
-Power BI Dashboard
-```
-
 ---
 
 # 🎯 Objectives
@@ -57,7 +52,6 @@ Power BI Dashboard
 * Perform SQL queries to answer business questions.
 * Conduct Exploratory Data Analysis (EDA).
 * Create visualizations to identify trends and patterns.
-* Build an interactive Power BI dashboard.
 * Generate business insights and recommendations.
 
 ---
@@ -85,10 +79,6 @@ Power BI Dashboard
 ### Visualization
 
 * Matplotlib
-
-### Dashboard
-
-* Power BI
 
 ### Development Tools
 
@@ -199,40 +189,22 @@ Key findings include:
 Include screenshots of:
 
 * Web Scraping Output
+<img width="1913" height="965" alt="scriping" src="https://github.com/user-attachments/assets/99723d5a-5380-4753-b3b8-491ff9a46d9f" />
+
 * Raw CSV Dataset
+<img width="875" height="222" alt="RowDataset" src="https://github.com/user-attachments/assets/0ba4c38d-3a06-4d89-89b3-6979623afe5d" />
+
 * Cleaned Dataset
+<img width="881" height="212" alt="CleanedDataset" src="https://github.com/user-attachments/assets/ae3c0733-6df7-4b04-b4f9-423a24abf8fe" />
+
 * PostgreSQL Table
-* SQL Query Results
+<img width="272" height="210" alt="Postgre" src="https://github.com/user-attachments/assets/1c7879d3-af10-4401-ad70-5c341321ec9d" />
+
 * EDA Charts
-* Power BI Dashboard
+<img width="1763" height="907" alt="image" src="https://github.com/user-attachments/assets/c69d9ce0-cbe2-4810-bfef-a7093a8270ba" />
 
 ---
 
-# 🚀 Future Improvements
-
-* Scrape additional attributes such as book category, UPC, product description, and image URL.
-* Automate the ETL pipeline.
-* Schedule periodic data collection.
-* Deploy an interactive dashboard.
-* Expand the analysis with advanced SQL and machine learning models.
-
----
-
-# ⭐ Skills Demonstrated
-
-* Web Scraping
-* Data Collection
-* Data Cleaning
-* Data Preprocessing
-* SQL
-* PostgreSQL
-* Exploratory Data Analysis
-* Data Visualization
-* Business Analytics
-* Power BI
-* Git & GitHub
-
----
 
 # 👨‍💻 Author
 
